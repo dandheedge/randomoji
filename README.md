@@ -1,7 +1,39 @@
-# Vue 3 + Vite
+## About The Project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Randomoji**
 
-## Recommended IDE Setup
+![image](https://user-images.githubusercontent.com/13269955/159480593-3415caef-e788-4b0f-a178-9cbd50ce7dde.png)
+Generate random emoji using Vue 3 + [Emoji API](https://github.com/cheatsnake/emojihub)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+
+## Getting Started
+### Prerequisites
+
+Install NPM on your local machine.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone this repo
+   ```sh
+   git clone https://github.com/dandheedge/randomoji
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Running in your browser
+   ```js
+   npm run dev
+   ```
+5. Testing with test case
+   ```js
+   npm run test
+   ```
+
+
+
